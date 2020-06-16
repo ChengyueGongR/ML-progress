@@ -10,7 +10,7 @@
 
 ### Unsupervised Learning
 
-- [Semi-supervised learning](unsupervsied/ssl.md)
+- [Semi-supervised learning](unsupervised/ssl.md)
 
 
 
