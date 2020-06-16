@@ -1,4 +1,4 @@
-# Tracking Progress in Natural Language Processing
+# Tracking Progress in Machine Learning
 
 ## Table of contents
 
